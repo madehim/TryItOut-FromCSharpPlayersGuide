@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarChiper", "CaesarChiper\CaesarChiper.csproj", "{9CDF3472-660E-4102-9B0D-12CE2CFB3E31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseIt", "ReverseIt\ReverseIt.csproj", "{34A36CE4-C9CA-42E3-8DC3-E8B4F8088745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigDice", "PigDice\PigDice.csproj", "{03AFB466-3104-4473-9B1F-C8C5CA762AC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFour", "ConnectFour\ConnectFour.csproj", "{7EA7D473-AE3B-48F1-98E6-0C8246A03B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conway's Game Of Life", "Conway's Game Of Life\Conway's Game Of Life.csproj", "{A3D642A3-63EC-4A39-922C-E25518BA55DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic-Tac-Toe", "Tic-Tac-Toe\Tic-Tac-Toe.csproj", "{1180354A-1866-49A4-8FBB-6EEC142075B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CDF3472-660E-4102-9B0D-12CE2CFB3E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDF3472-660E-4102-9B0D-12CE2CFB3E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDF3472-660E-4102-9B0D-12CE2CFB3E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDF3472-660E-4102-9B0D-12CE2CFB3E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A36CE4-C9CA-42E3-8DC3-E8B4F8088745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A36CE4-C9CA-42E3-8DC3-E8B4F8088745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A36CE4-C9CA-42E3-8DC3-E8B4F8088745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A36CE4-C9CA-42E3-8DC3-E8B4F8088745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03AFB466-3104-4473-9B1F-C8C5CA762AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AFB466-3104-4473-9B1F-C8C5CA762AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AFB466-3104-4473-9B1F-C8C5CA762AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AFB466-3104-4473-9B1F-C8C5CA762AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA7D473-AE3B-48F1-98E6-0C8246A03B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA7D473-AE3B-48F1-98E6-0C8246A03B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA7D473-AE3B-48F1-98E6-0C8246A03B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA7D473-AE3B-48F1-98E6-0C8246A03B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D642A3-63EC-4A39-922C-E25518BA55DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D642A3-63EC-4A39-922C-E25518BA55DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D642A3-63EC-4A39-922C-E25518BA55DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D642A3-63EC-4A39-922C-E25518BA55DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1180354A-1866-49A4-8FBB-6EEC142075B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1180354A-1866-49A4-8FBB-6EEC142075B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1180354A-1866-49A4-8FBB-6EEC142075B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1180354A-1866-49A4-8FBB-6EEC142075B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC3FF6E1-D1CD-4F41-B6DD-1EB7185B55A0}
+	EndGlobalSection
+EndGlobal
